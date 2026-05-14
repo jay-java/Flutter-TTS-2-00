@@ -8,7 +8,6 @@ void main(List<String> args) {
         print('');
     }
 
-
     for(int i=1;i<=6;i++){//row
         for(int j = 1;j<=i;j++){ //column
             stdout.write('*');
