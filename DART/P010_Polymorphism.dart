@@ -12,5 +12,4 @@ class Child extends Parent{
 void main(List<String> args) {
   Child c = Child();
   c.display();
-
 } 
