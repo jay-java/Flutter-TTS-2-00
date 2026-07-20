@@ -12,6 +12,7 @@ class _MyStateState extends State<MyState> {
   void changeColor(Color color){
     setState(() {
       containerColor = color;
+
     });
   }
 
